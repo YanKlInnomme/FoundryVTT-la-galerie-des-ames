@@ -1,0 +1,43 @@
+{
+  "title": "Kult: Divinité Perdue - La Galerie des Âmes",
+  "description": "<p>Les personnages joueurs sont envoyés pour trouver un artiste nommé Christian Starker et l'escorter jusqu'à leur employeur, mais tout ne se déroule pas comme prévu. Cette histoire se déroule principalement à Los Angeles, en janvier 1951. La ville est froide, pleine de brouillard et de l'humidité inéluctable provoquée par une bruine constante.</p><p>Version prête à l'emploi du scénario sus-cité disponible gratuitement chez Arkhane Asylum à l'adresse suivante :</p><p><a class=\"hyperlink\" href=\"https://arkhane-asylum.fr/download/6434/\" target=\"_blank\" rel=\"nofollow noopener\">https://arkhane-asylum.fr/download/6434/</a></p><p></p><section id=\"secret-oTz9ASYxTmoC224L\" class=\"secret\"><p>Estimation de la durée de partie : 8-10h</p></section>",
+  "version": "1.0.0",
+  "system": "kult-divinity-lost",
+  "background": "worlds/la-galerie-des-ames/assets/fond.webp",
+  "coreVersion": "10.291",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "1.5.0.0",
+  "id": "la-galerie-des-ames",
+  "compatibility": {
+    "verified": "10.291",
+    "minimum": "10"
+  },
+  "dependencies":
+	[
+		{
+		"name": "babele"
+		},
+		{
+		"name": "lib-wrapper"
+		},
+		{
+		"name": "kult-divinity-lost",
+		"type": "system"
+		},
+    {
+    "name": "kult-divinity-lost-fr",
+    "type": "module"
+    }
+	],
+  "authors": [
+    {
+      "name": "YanK",
+      "discord": "YanK#8683",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/YanKlInnomme/FoundryVTT-la-galerie-des-ames",
+  "manifest": "https://github.com/YanKlInnomme/FoundryVTT-la-galerie-des-ames/releases/latest/download/module.json",
+  "download": "https://github.com/YanKlInnomme/FoundryVTT-la-galerie-des-ames/releases/download/v1.0.0/module.zip"
+}
