@@ -1,6 +1,6 @@
 {
   "title": "Kult: Divinité Perdue - La Galerie des Âmes",
-  "description": "<p>Les personnages joueurs sont envoyés pour trouver un artiste nommé Christian Starker et l'escorter jusqu'à leur employeur, mais tout ne se déroule pas comme prévu. Cette histoire se déroule principalement à Los Angeles, en janvier 1951. La ville est froide, pleine de brouillard et de l'humidité inéluctable provoquée par une bruine constante.</p><p>Version prête à l'emploi du scénario sus-cité disponible gratuitement chez Arkhane Asylum à l'adresse suivante :</p><p><a class=\"hyperlink\" href=\"https://arkhane-asylum.fr/download/6434/\" target=\"_blank\" rel=\"nofollow noopener\">https://arkhane-asylum.fr/download/6434/</a></p><p></p><section id=\"secret-oTz9ASYxTmoC224L\" class=\"secret\"><p>Estimation de la durée de partie : 8-10h</p></section>",
+  "description": "<p>Les personnages joueurs sont envoyés pour trouver un artiste nommé Christian Starker et l'escorter jusqu'à leur employeur, mais tout ne se déroule pas comme prévu. Cette histoire se déroule principalement à Los Angeles, en janvier 1951. La ville est froide, pleine de brouillard et de l'humidité inéluctable provoquée par une bruine constante.</p><p>Version prête à l'emploi du scénario sus-cité disponible gratuitement chez Arkhane Asylum à l'adresse suivante :</p><p><a class=\"hyperlink\" href=\"https://arkhane-asylum.fr/download/6434/\" target=\"_blank\" rel=\"nofollow noopener\">https://arkhane-asylum.fr/download/6434/</a></p><p></p><section id=\"secret-oTz9ASYxTmoC224L\" class=\"secret\"><p>Durée de la partie : ~ 8 à 10 heures</p></section>",
   "version": "1.0.0",
   "system": "kult-divinity-lost",
   "background": "worlds/la-galerie-des-ames/assets/fond.webp",
@@ -13,23 +13,6 @@
     "verified": "10.291",
     "minimum": "10"
   },
-  "dependencies":
-	[
-		{
-		"name": "babele"
-		},
-		{
-		"name": "lib-wrapper"
-		},
-		{
-		"name": "kult-divinity-lost",
-		"type": "system"
-		},
-    {
-    "name": "kult-divinity-lost-fr",
-    "type": "module"
-    }
-	],
   "authors": [
     {
       "name": "YanK",
@@ -39,5 +22,31 @@
   ],
   "url": "https://github.com/YanKlInnomme/FoundryVTT-la-galerie-des-ames",
   "manifest": "https://github.com/YanKlInnomme/FoundryVTT-la-galerie-des-ames/releases/latest/download/module.json",
-  "download": "https://github.com/YanKlInnomme/FoundryVTT-la-galerie-des-ames/releases/download/v1.0.0/module.zip"
+  "download": "https://github.com/YanKlInnomme/FoundryVTT-la-galerie-des-ames/releases/download/v1.0.0/module.zip",
+  "relationships": {
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "lib-wrapper",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "kult-divinity-lost-fr",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "systems": [
+      {
+        "id": "kult-divinity-lost",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  }
 }
