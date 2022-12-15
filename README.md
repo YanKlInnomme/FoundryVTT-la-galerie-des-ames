@@ -16,6 +16,31 @@ Afin de fonctionner ce module nécessite les installations préalables suivantes
  * Le module de Traduction Française (kult-divinity-lost-fr) dont je suis aussi l'auteur ^^
 
 ## Version 1.0.0
- * 
+ * Transcription des fiches de Personnages Joueurs (Fred Hayden, George Stevenson, Lizabeth « Liza »  Bennett & Ray Astor)
+ * Transcription du scénario PDF dans les journaux (Backgrounds des PJs, Personnages Non Joueurs, Scénario)
+ * Création de 9 scènes, certaines comprenant des cartes avec murs, sources sonores et sources lumineuses (Utilisation possible des Tokens)
+ * Mise en place d'aides complémentaires au·à la MJ (Accès Rapides, Indications)
+ * Ajout d'illustrations complémentaires
+ * Ajout de bruitages et musiques
 
 ---------------------------------------------------------------------
+
+The scenario "The Gallery of Souls", provided for free by Arkhane Asylum Publishing, is now available turnkey on Foundry VTT.
+
+If you like using my modules and if you have the means, you can help me to continue the adventure by supporting me via Tipeee (https://fr.tipeee.com/yank/news). In any case, have fun and don't hesitate to contact me to give me your opinion or to inform me of a problem.
+
+## Prerequisites
+
+In order to work this module requires the following prerequisites:
+ * The Kult Divinity Lost 4th Edition system from astarte-horns
+ * Babele module (essential for translation)
+ * Lib-wrapper module (Required by Babele)
+* The French Translation module (kult-divinity-lost-fr) which I also created ^^
+
+## Version 1.0.0
+ * Transcription of the Player Character sheets (Fred Hayden, George Stevenson, Lizabeth "Liza" Bennett & Ray Astor)
+ * Transcription of the PDF script into the logs (Player Backgrounds, Non-Player Characters, Scenario)
+ * Creation of 9 scenes, some of which include maps with walls, sound sources and light sources (possible use of Tokens)
+ * Creation of additional help for the GM (Quick Access, Hints)
+ * Adding additional illustrations
+ * Adding sound effects and music
