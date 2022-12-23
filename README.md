@@ -15,6 +15,9 @@ Afin de fonctionner ce module nécessite les installations préalables suivantes
  * Le module Lib-wrapper (Requis par Babele)
  * Le module de Traduction Française (kult-divinity-lost-fr) dont je suis aussi l'auteur ^^
 
+## Version 1.5.0
+ * Correction de bugs mineurs
+
 ## Version 1.0.0
  * Transcription des fiches de Personnages Joueurs (Fred Hayden, George Stevenson, Lizabeth « Liza »  Bennett & Ray Astor)
  * Transcription du scénario PDF dans les journaux (Backgrounds des PJs, Personnages Non Joueurs, Scénario)
@@ -36,6 +39,9 @@ In order to work this module requires the following prerequisites:
  * Babele module (essential for translation)
  * Lib-wrapper module (Required by Babele)
 * The French Translation module (kult-divinity-lost-fr) which I also created ^^
+
+## Version 1.5.0
+ * Minor bug fixes
 
 ## Version 1.0.0
  * Transcription of the Player Character sheets (Fred Hayden, George Stevenson, Lizabeth "Liza" Bennett & Ray Astor)
